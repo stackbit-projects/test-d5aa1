@@ -71,3 +71,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://test-d5aa1.netlify.app'
